@@ -1,1 +1,0 @@
-# calculadora_dise-o
